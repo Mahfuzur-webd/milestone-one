@@ -49,4 +49,54 @@ p{
 }
 .heading-center{
     text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.flex-iteam{
+    display: flex;
+}
+.mission-part{
+   background-color:cyan;
+   border-radius: 15px;
+   padding-left: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   
+}
+.mission-part img{
+    width: 50%;
+}
+.vission-part{
+    background-color:antiquewhite;
+   border-radius: 15px;
+   padding-left: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+    
+}
+.vission-part img{
+    width: 50%;
+}
+.goal-part{
+    background-color:cyan;
+    border-radius: 15px;
+   padding-left: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.goal-part img{
+    width: 50%;
+}
+.division-three{
+    width: 33%;
+}
+.margin-iteam{
+    margin-right: 10%;
+    margin-left: 10%;
 }
